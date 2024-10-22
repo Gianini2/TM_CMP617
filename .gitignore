@@ -165,6 +165,11 @@ cython_debug/
 
 AmazonReviews2023-main/*
 Amazon-Reviews-2023/*
-data/*
 raw_data/*
+data/ToysAndGamesDict_1000000SAMPLE.jsonl
+data/MoviesAndTVDict_2000000SAMPLE.jsonl
+data/MoviesAndTVDict_500000SAMPLE.jsonl
+data/GroceryAndGourmetFoodDict_500000SAMPLE.jsonl
 apresentação e artigo/*
+!apresentação e artigo/trabalho_final_viviane_AugustoGiani_2024_01.pdf
+!apresentação e artigo/CMP617 - Trabalho Final - Augusto Giani.pdf
